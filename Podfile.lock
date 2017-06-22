@@ -1,0 +1,14 @@
+PODS:
+  - MobileCenter/MobileCenter (0.9.0)
+  - MobileCenter/MobileCenterPush (0.9.0):
+    - MobileCenter/MobileCenter
+
+DEPENDENCIES:
+  - MobileCenter/MobileCenterPush
+
+SPEC CHECKSUMS:
+  MobileCenter: dd301af71dbe0c4e3fe1d7e3368d0c38d7ea9e4e
+
+PODFILE CHECKSUM: b0fd2a8ed241a8c1d9e8f990efa37b65da8f5b06
+
+COCOAPODS: 1.2.1

@@ -1,0 +1,3 @@
+target 'SimpleCreditCardValidator' do
+    pod 'MobileCenter/MobileCenterPush'
+end
